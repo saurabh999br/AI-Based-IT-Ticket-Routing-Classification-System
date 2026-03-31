@@ -28,6 +28,4 @@ It helps organizations streamline ticket handling, reduce manual effort, and imp
 - Streamlit (Frontend UI)
 - PyCharm (Development Environment)
 
----
-
-## 📂 Project Structure
+--
