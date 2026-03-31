@@ -1,4 +1,4 @@
-# 🎫 AI-Based IT Ticket Support Routing & Classification System
+# 🎫 AI-Based IT Ticket Routing & Classification System
 
 ## 📌 Project Overview
 This project is an AI-powered IT ticket support system that automatically classifies incoming support tickets into:
